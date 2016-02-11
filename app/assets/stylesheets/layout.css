@@ -1,0 +1,17 @@
+body {
+	margin: 0px;
+}
+header {
+	height: 70px;
+	width: 100%;
+	background-color: #2C3742;
+}
+
+header .logo {
+	height: 70px;
+}	
+
+header .logo a{
+	margin: 7px;
+	display: inline-block;
+}
